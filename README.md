@@ -82,3 +82,26 @@ Run JupyterLab to start your analysis:
 bash
 Copy code
 jupyter lab
+
+Dataset Description
+The dataset used for this EDA project is the Movies Dataset, sourced from Kaggle.
+https://www.kaggle.com/datasets/mohammedalsubaie/movies
+Dataset Summary
+Number of records: 6,000+ movies
+Features:
+Movie ID
+Title
+Genres
+Director
+Year of release
+IMDB Rating
+Box Office Revenue
+Duration
+Country of origin
+Language
+Type of data: The dataset includes both categorical (e.g., genres, country) and numerical (e.g., box office revenue, IMDB rating) features.
+Focus of EDA:
+Analyze trends in movie ratings over time.
+Investigate correlations between box office revenue and IMDB ratings.
+Explore the distribution of movie genres and their performance.
+Click here to explore the dataset: Movies Dataset https://www.kaggle.com/datasets/mohammedalsubaie/movies
